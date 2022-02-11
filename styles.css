@@ -1,0 +1,120 @@
+a {
+    color: black;
+
+}
+
+a:hover {
+    text-decoration: line-through;
+
+}
+
+a:active {
+
+    color:blue;
+}
+
+
+
+
+body {
+    background-color: #f1f1f1; 
+    font-size: 16px;
+    font-weight: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.avatar {
+
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px  14px rgba(0, 0, 0);
+    
+    
+}
+
+#name {
+
+    margin: 20px;
+}
+
+.info p{
+    color: #86898f;
+    margin: 0;
+    font-style: italic;
+
+
+
+
+
+}
+
+.info strong{
+    text-decoration: underline;
+
+
+
+
+
+}
+
+.food {
+    background: rgb(255, 251, 0);
+    padding: 15px;
+    border: 5px solid red;
+    margin: 20px;
+    
+
+
+}
+
+.container {
+    max-width: 750px;
+    
+
+}
+
+
+.list {
+    padding: 0 20px;
+
+}
+
+.list li{
+
+    color: #86898f;
+    
+
+}
+
+.hobbies {
+    background-color: rgb(196, 255, 235);
+
+}
+
+.bro {
+    margin: 20px;
+    background-color: rgb(243, 196, 255);
+    border: 5px solid rgb(76, 0, 253);
+    padding: 15px;
+
+}
+
+.table {
+    width: 100%;
+    background-color: rgb(185, 255, 127);
+    
+}
+
+table tr:nth-child(1){
+    font-weight: bolder;
+    font-size:larger;
+
+}
+
+
+.form-group label {
+    display: block;
+    margin-top: 10px;
+
+
+}
